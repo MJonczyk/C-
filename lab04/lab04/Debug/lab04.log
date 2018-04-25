@@ -1,0 +1,17 @@
+﻿  Main.cpp
+c:\users\joniu\source\repos\lab04\lab04\main.cpp(8): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\joniu\source\repos\lab04\lab04\main.cpp(44): warning C4018: '<': signed/unsigned mismatch
+c:\users\joniu\source\repos\lab04\lab04\main.cpp(103): warning C4018: '<': signed/unsigned mismatch
+  CTree.cpp
+c:\users\joniu\source\repos\lab04\lab04\ctree.cpp(115): warning C4018: '<': signed/unsigned mismatch
+c:\users\joniu\source\repos\lab04\lab04\ctree.cpp(176): warning C4018: '<': signed/unsigned mismatch
+c:\users\joniu\source\repos\lab04\lab04\ctree.cpp(246): warning C4018: '<': signed/unsigned mismatch
+c:\users\joniu\source\repos\lab04\lab04\ctree.cpp(258): warning C4018: '<': signed/unsigned mismatch
+c:\users\joniu\source\repos\lab04\lab04\ctree.cpp(269): warning C4018: '<': signed/unsigned mismatch
+c:\users\joniu\source\repos\lab04\lab04\ctree.cpp(275): warning C4018: '<': signed/unsigned mismatch
+c:\users\joniu\source\repos\lab04\lab04\ctree.cpp(324): warning C4018: '<': signed/unsigned mismatch
+c:\users\joniu\source\repos\lab04\lab04\ctree.cpp(338): warning C4018: '<': signed/unsigned mismatch
+  CNode.cpp
+c:\users\joniu\source\repos\lab04\lab04\cnode.cpp(113): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  lab04.vcxproj -> C:\Users\Joniu\source\repos\lab04\Debug\lab04.exe
